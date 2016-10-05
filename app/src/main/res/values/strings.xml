@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">WhatsApp</string>
+    <string name="signup_btn">Regist Account</string>
+    <string name="validation_text">Validation</string>
+    <string name="validation_button">Validate</string>
+    <string name="bt_register">Register Account</string>
+    <string name="bt_login">Login</string>
+    <string name="txt_register">Don\'t have account? Register now!</string>
+
+    <string name="item_logout">Log Out</string>
+    <string name="item_config">Configurations</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
